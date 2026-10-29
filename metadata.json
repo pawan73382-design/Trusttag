@@ -1,0 +1,6 @@
+{
+  "name": "TrustTag",
+  "description": "Anti-counterfeit trust layer and CrewAI multi-agent verification system for online electronics sales",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
