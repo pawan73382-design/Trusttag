@@ -3,7 +3,10 @@
 > **Know Before You Pay. Report. Verify. Build Trust.**
 >
 > TrustTag is a prototype platform designed to help online electronics buyers assess seller credibility, identify potential counterfeit products, connect complaints to suspicious patterns, and support fairer dispute resolution.
+>
+>
 > AI Chatbot - Claude AI
+>
 > AI Agent- Crew ai but later on it asks for payment so eventually shfted to Google AI studio
 
 ## 📌 Table of Contents
